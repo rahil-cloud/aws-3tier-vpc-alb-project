@@ -63,16 +63,16 @@ EC2 Web Server (Private Subnet)
 ![Subnets](screenshot/Subnets.png)
 
 ### EC2 Instance
-![EC2 Instance](screenshot/EC2 Instance.png)
+![EC2 Instance](screenshot/EC2Instance.png)
 
 ### Target Group Health Check
-![Target Group](screenshot/Target Group Health.png)
+![Target Group](screenshot/TargetGroupHealth.png)
 
 ### Application Load Balancer
-![Load Balancer](screenshot/Load Balancer.png)
+![Load Balancer](screenshot/LoadBalancer.png)
 
 ### Web Server Output
-![Web Output](screenshot/Web Page Working.png)
+![Web Output](screenshot/WebPageWorking.png)
 
 ---
 
