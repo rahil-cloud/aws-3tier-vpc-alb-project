@@ -10,7 +10,7 @@ The architecture uses a custom VPC with public and private subnets, an Internet 
 
 ## Architecture Diagram
 
-![Architecture Diagram](architecture/alb- ec2.drawio.png)
+![Architecture Diagram](architecture-diagram.png)
 
 ---
 
